@@ -13,7 +13,7 @@ usage:
 #include <stdio.h>
 #include <stdlib.h>
 
-
+/ addiotnal comment */
 #include "rs232.h"
 
 main(int argc, char **argv)
