@@ -14,6 +14,7 @@ usage:
 #include <stdlib.h>
 
 /* additional comment */
+/* and another commnent on 2018-10-02 */
 #include "rs232.h"
 
 main(int argc, char **argv)
