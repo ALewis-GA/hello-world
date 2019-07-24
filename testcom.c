@@ -9,6 +9,9 @@ usage:
 
  uses the rs232.c routines from ??????
  compile gcc -o testcom testcom.c rs232.c
+
+Cloned this to my lenove aptop using GitHub Desktop while in Vancouver airport
+Vancouver Branch
 *************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
