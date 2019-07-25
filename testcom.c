@@ -10,8 +10,13 @@ usage:
  uses the rs232.c routines from ??????
  compile gcc -o testcom testcom.c rs232.c
 
+<<<<<<< HEAD
 Cloned this to my lenove laptop using GitHub Desktop while in Vancouver airport
 
+=======
+Cloned this to my lenove aptop using GitHub Desktop while in Vancouver airport
+Vancouver Branch
+>>>>>>> 4f759c019ca6c8c931806580a3d5af27cb6bfd73
 *************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
