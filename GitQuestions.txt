@@ -1,0 +1,16 @@
+GitHUB questions
+
+What is a branch and what is a fork?
+Pull request vs push request?
+
+Why is it called GIT?
+
+what about  bit bucket
+
+How does it go from Git repository to a web site on intermagnet.github.io
+
+How will I include QDC on the intermagnet gitHUB site?
+
+
+
+
