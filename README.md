@@ -19,3 +19,4 @@ created new branch
 
 This is the first edit in the test branch
 This is the second edit in the test branch
+This is the third edit in the test branch
